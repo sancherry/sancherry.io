@@ -1,0 +1,17 @@
+__pycache__
+/app_session
+.vscode
+
+*.db
+*.db-journal
+
+images
+robots.txt
+
+views/liberty
+views/yousoro
+views/super_lite
+views/buma
+views/before_namu
+views/acme
+views/sl-open
